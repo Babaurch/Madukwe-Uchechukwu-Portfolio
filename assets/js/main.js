@@ -398,4 +398,4 @@
 						$main._show(location.hash.substr(1), true);
 					});
 
-})(jQuery);
+})(jQuery); 
